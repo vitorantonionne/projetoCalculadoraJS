@@ -66,4 +66,5 @@ document.getElementById("themeSwitcher").addEventListener("click", function () {
     root.style.setProperty("--primary-color", "#4dff91")
     main.dataset.theme = "dark"
   }
+  
 })
